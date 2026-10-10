@@ -25,6 +25,8 @@ blob_fixups: blob_fixups_user_type = {
 
 namespace_imports = [
     'hardware/xiaomi',
+    'vendor/qcom/common/vendor/adreno/r',
+    'vendor/qcom/common/vendor/media/legacy',
     'vendor/xiaomi/sm8150-common',
 ]
 
